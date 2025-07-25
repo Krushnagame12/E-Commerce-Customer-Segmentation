@@ -1,7 +1,7 @@
 # E-Commerce-Customer-Segmentation
 
 # Project: E-Commerce-Customer-Segmentation-Project
-# Game Krushna
+# By - Game Krushna
 
 ## Description
 
